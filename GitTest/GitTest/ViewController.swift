@@ -13,6 +13,7 @@ class ViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
         print("法国红酒")
+        print("发 v 是个黑科技分公司 u 了福利看见我")
         // Do any additional setup after loading the view, typically from a nib.
     }
 
